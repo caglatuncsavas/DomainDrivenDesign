@@ -1,0 +1,14 @@
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\bin\Debug\net8.0\DomainDrivenDesign.ConsoleApp.exe
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\bin\Debug\net8.0\DomainDrivenDesign.ConsoleApp.deps.json
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\bin\Debug\net8.0\DomainDrivenDesign.ConsoleApp.runtimeconfig.json
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\bin\Debug\net8.0\DomainDrivenDesign.ConsoleApp.dll
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\bin\Debug\net8.0\DomainDrivenDesign.ConsoleApp.pdb
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.AssemblyInfoInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.AssemblyInfo.cs
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.dll
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\refint\DomainDrivenDesign.ConsoleApp.dll
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.pdb
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\DomainDrivenDesign.ConsoleApp.genruntimeconfig.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.ConsoleApp\obj\Debug\net8.0\ref\DomainDrivenDesign.ConsoleApp.dll

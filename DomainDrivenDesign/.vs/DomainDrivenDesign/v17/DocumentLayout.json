@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DomainDrivenDesign\\DomainDrivenDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign\\domaindrivendesign.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign\\domaindrivendesign.domain\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Category.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Products\\Category.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Category.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Products\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:35:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:29:37.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
