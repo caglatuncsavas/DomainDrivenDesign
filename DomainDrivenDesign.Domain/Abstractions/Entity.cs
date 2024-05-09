@@ -40,7 +40,7 @@ public abstract class Entity : IEquatable<Entity>
 
     public static bool operator !=(Entity entity1, Entity entity2)
     {
-        return !entity1.Equals(entity2);
+        return !entity1.Equals(entity2); 
     }
 }
 

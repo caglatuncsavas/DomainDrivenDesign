@@ -1,4 +1,4 @@
-﻿namespace DomainDrivenDesign.Domain.Products;
+﻿namespace DomainDrivenDesign.Domain.Shared;
 
 public sealed record Currency
 {
@@ -10,10 +10,10 @@ public sealed record Currency
     }
     public string Code { get; init; }
 
-     public static Currency FromCode(string code)
-     {
+    public static Currency FromCode(string code)
+    {
         return All.FirstOrDefault(P => P.Code == code) ?? throw new ArgumentException("Invalid currency code");
-     }
+    }
 
     public static readonly IReadOnlyCollection<Currency> All = new[] { USD, TRY };
 }

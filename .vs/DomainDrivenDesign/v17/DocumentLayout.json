@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\DomainDrivenDesign\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\domaindrivendesign.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\domaindrivendesign.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:36:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainDrivenDesign.Domain",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T19:34:59.287Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -27,14 +61,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Products\\Product.cs",
-              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Products\\Product.cs",
-              "RelativeToolTip": "DomainDrivenDesign.Domain\\Products\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:59:45.503Z",
+              "WhenOpened": "2024-05-09T19:35:04.709Z",
               "EditorCaption": ""
             }
           ]
