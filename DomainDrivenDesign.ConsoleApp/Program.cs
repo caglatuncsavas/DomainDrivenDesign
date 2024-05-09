@@ -3,7 +3,7 @@
 //MemoryCache memoryCache = new();
 //memoryCache.CreateCache();
 
-//abstract class Cache 
+//abstract class Cache
 //{
 //    public virtual void CreateCache()
 //    {
@@ -11,7 +11,7 @@
 //    }
 //}
 
-//class MemoryCache: Cache
+//class MemoryCache : Cache
 //{
 //    public override void CreateCache()
 //    {
@@ -19,7 +19,7 @@
 //    }
 //}
 
-//class RedisCache: Cache
+//class RedisCache : Cache
 //{
 //    public override void CreateCache()
 //    {
@@ -28,41 +28,31 @@
 //}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-User user1 = new()
+static void EntityMethod()
 {
-Id = 1,
-FirstName = "Çağla",
-LastName = "Çağla Tunç Savaş",
-Email = "caglatuncsavas@gmail.com"
-};
+    User user1 = new()
+    {
+        Id = 1,
+        FirstName = "Çağla",
+        LastName = "Çağla Tunç Savaş",
+        Email = "caglatuncsavas@gmail.com"
+    };
 
-User user2 = new()
-{
-Id = 1,
-FirstName = "Çağla",
-LastName = "Çağla Tunç Savaş",
-Email = "caglatuncsavas@gmail.com"
-};
+    User user2 = new()
+    {
+        Id = 1,
+        FirstName = "Çağla",
+        LastName = "Çağla Tunç Savaş",
+        Email = "caglatuncsavas@gmail.com"
+    };
 
+    var result = user1 == user2;
 
-//var result = user1.Equals(user2);
+    //var result = user1.Equals(user2);
+    Console.WriteLine($"user1 user2'ye eşit mi?: {result}"); //Referans olarak eşit olmadığı ve newlenerek farklı instancelar aldığı için false döner.
+    Console.ReadLine();
+}
 
-var result = user1 == user2;
-
-Console.WriteLine($"user1 user2'ye eşit mi?: {result}");
-Console.ReadLine();
 public class User
 {
     public int Id { get; set; }
@@ -81,7 +71,7 @@ public class User
     public static bool operator ==(User left, User right)
     {
         if (left is null || right is null) return false;
-        if(left.GetType() != right.GetType()) return false;
+        if (left.GetType() != right.GetType()) return false;
         return left.Id == right.Id;
     }
 
