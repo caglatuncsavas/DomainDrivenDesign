@@ -1,0 +1,6 @@
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.csproj.AssemblyReference.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.AssemblyInfoInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.AssemblyInfo.cs
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.sourcelink.json

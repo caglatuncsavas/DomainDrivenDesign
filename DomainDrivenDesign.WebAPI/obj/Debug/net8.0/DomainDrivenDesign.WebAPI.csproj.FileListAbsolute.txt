@@ -1,0 +1,7 @@
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.csproj.AssemblyReference.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.AssemblyInfoInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.AssemblyInfo.cs
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.csproj.CoreCompileInputs.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DomainDrivenDesign\DomainDrivenDesign.WebAPI\obj\Debug\net8.0\DomainDrivenDesign.WebAPI.sourcelink.json

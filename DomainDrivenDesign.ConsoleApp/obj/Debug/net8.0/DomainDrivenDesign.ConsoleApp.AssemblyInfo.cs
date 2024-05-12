@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomainDrivenDesign.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4af551c512835e8926e0b5c6b7ac981d4dcc791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbdce1b08f8dea55a33a1b957f5ed35d16376c59")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomainDrivenDesign.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomainDrivenDesign.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
