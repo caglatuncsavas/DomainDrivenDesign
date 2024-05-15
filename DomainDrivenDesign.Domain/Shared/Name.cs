@@ -1,15 +1,15 @@
-﻿namespace DomainDrivenDesign.Domain.Products;
+﻿namespace DomainDrivenDesign.Domain.Shared;
 
 public sealed record Name
 {
     public Name(string value)
     {
 
-        if(string.IsNullOrEmpty(value))
+        if (string.IsNullOrEmpty(value))
         {
             throw new ArgumentException("Name cannot be null or empty");
         }
-        if(value.Length < 3)
+        if (value.Length < 3)
         {
             throw new ArgumentException("Name must be at least 3 characters long");
         }

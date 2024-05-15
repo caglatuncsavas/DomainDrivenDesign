@@ -1,9 +1,7 @@
-﻿using DomainDrivenDesign.Domain.Abstractions;
+﻿using DomainDrivenDesign.Domain.Orders;
 using DomainDrivenDesign.Domain.Shared;
-using System.Diagnostics.Contracts;
 
-
-namespace DomainDrivenDesign.Domain.Orders;
+namespace DomainDrivenDesign.Domain.Abstractions;
 public sealed class Order : Entity
 {
     public Order(string orderNumber, int statusValue)
@@ -15,6 +13,8 @@ public sealed class Order : Entity
     public OrderNumber OrderNumber { get; private set; } = new(string.Empty);
     public DateTime Date { get; private set; } 
     public OrderStatusEnum Status { get; private set; } = OrderStatusEnum.AwaitingApproval;
+
+    // Aggregate root
     public ICollection<OrderLine>? OrderLines { get; private set; } = new List<OrderLine>();
     public void CreateOrder(List<CreateOrderLineDto> request)
     {
@@ -38,6 +38,7 @@ public sealed class Order : Entity
     public void RemoveOrderLine(Guid orderLineId)
     {
         var orderLine = OrderLines.FirstOrDefault(p => p.Id == orderLineId);
+       
         if (orderLine is null)
         {
            throw new ArgumentException("Order line not found");

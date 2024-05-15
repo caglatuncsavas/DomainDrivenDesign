@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\DomainDrivenDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\events\\userdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\events\\userdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\events\\sendconfirmemailforuserdomainevenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\events\\sendconfirmemailforuserdomainevenet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{772089B4-FD97-4AC5-A8E3-9A4AB2D8E199}|DomainDrivenDesign.WebAPI\\DomainDrivenDesign.WebAPI.csproj|c:\\domaindrivendesign\\domaindrivendesign.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{772089B4-FD97-4AC5-A8E3-9A4AB2D8E199}|DomainDrivenDesign.WebAPI\\DomainDrivenDesign.WebAPI.csproj|solutionrelative:domaindrivendesign.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|c:\\domaindrivendesign\\domaindrivendesign.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9049BF61-EE39-4EA9-AAA7-71045232F48D}|DomainDrivenDesign.Domain\\DomainDrivenDesign.Domain.csproj|solutionrelative:domaindrivendesign.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserDomainEvent.cs",
-              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Events\\UserDomainEvent.cs",
-              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\Events\\UserDomainEvent.cs",
-              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Events\\UserDomainEvent.cs",
-              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\Events\\UserDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:45:03.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SendConfirmEmailForUserDomainEvenet.cs",
-              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Events\\SendConfirmEmailForUserDomainEvenet.cs",
-              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\Events\\SendConfirmEmailForUserDomainEvenet.cs",
-              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Events\\SendConfirmEmailForUserDomainEvenet.cs",
-              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\Events\\SendConfirmEmailForUserDomainEvenet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:44:58.603Z",
+              "WhenOpened": "2024-05-15T00:13:45.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
-              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\User.cs",
-              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
-              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\User.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCEAAAAFAAAA",
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Address.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\Address.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Address.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:28:56.408Z",
+              "WhenOpened": "2024-05-15T00:01:13.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DomainDrivenDesign.WebAPI\\Program.cs",
-              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.WebAPI\\Program.cs",
-              "RelativeToolTip": "DomainDrivenDesign.WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Password.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\Password.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Password.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\Password.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:26:43.035Z",
+              "WhenOpened": "2024-05-15T00:00:15.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Email.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\Email.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\Email.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:59:45.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "DomainDrivenDesign.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\DomainDrivenDesign\\DomainDrivenDesign.Domain\\Users\\User.cs",
+              "RelativeToolTip": "DomainDrivenDesign.Domain\\Users\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:58:49.484Z",
               "EditorCaption": ""
             }
           ]

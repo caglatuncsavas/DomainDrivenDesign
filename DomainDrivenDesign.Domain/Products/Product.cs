@@ -1,8 +1,11 @@
 ﻿using DomainDrivenDesign.Domain.Shared;
+using DomainDrivenDesign.Domain.Abstractions;
+using DomainDrivenDesign.Domain.Categories;
+
 
 namespace DomainDrivenDesign.Domain.Products;
 
-public sealed class Product
+public sealed class Product : Entity
 {
     public Product(Name name, Description description, Money money, Guid categoryId)
     {
@@ -10,11 +13,11 @@ public sealed class Product
         Name = name;
         Description = description;
         Price = money;
+        CategoryId = categoryId;
     }
-    public Guid Id { get; private set; }
-    public Name Name { get; private set; } = new(string.Empty);
-    public Description Description { get; private set; } = new(string.Empty);
-    public Money Price { get; private set; } = Money.Zero();
+    public Name Name { get; private set; }
+    public Description Description { get; private set; } 
+    public Money Price { get; private set; } 
     public Guid CategoryId { get; private set; }
     public Category? Category { get; private set; }
     public void ChangeName(string name)

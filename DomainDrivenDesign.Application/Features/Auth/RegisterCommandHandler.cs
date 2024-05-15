@@ -22,7 +22,9 @@ internal sealed class RegisterCommandHandler(
 
 
         string emailConfirmCode = new Random().Next(1000, 9999).ToString();
+
         CreateUserDto createUserDto = mapper.Map<CreateUserDto>(request);
+
         createUserDto.EmailConfirmCode = emailConfirmCode;
 
         User user = await userRepository.CreateAsync(createUserDto, cancellationToken);

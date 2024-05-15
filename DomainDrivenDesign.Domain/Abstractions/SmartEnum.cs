@@ -2,8 +2,7 @@
 
 namespace DomainDrivenDesign.Domain.Abstractions;
 
-public abstract class SmartEnum<TEnum>
-    where TEnum : SmartEnum<TEnum>
+public abstract class SmartEnum<TEnum> where TEnum : SmartEnum<TEnum>
 {
     private static readonly Dictionary<int, TEnum> Enumerations = CreateEnumeration();
 
